@@ -1,0 +1,57 @@
+/*!
+ * Font Awesome Free 5.11.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: 900;
+  font-display: auto;
+  src: url("../webfonts/small.eot");
+  src: url("../webfonts/small.eot?#iefix") format("embedded-opentype"), url("../webfonts/small.woff") format("woff"), url("../webfonts/small.ttf") format("truetype"), url("../webfonts/small.svg#fontawesome") format("svg"); }
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hand-lizard:before {
+  content: "\e900";
+}
+.icon-feather:before {
+  content: "\e901";
+}
+.icon-dragon:before {
+  content: "\e902";
+}
+.icon-dumpster:before {
+  content: "\e903";
+}
+.icon-crow:before {
+  content: "\e904";
+}
+.icon-leaf:before {
+  content: "\e905";
+}
+.icon-beer:before {
+  content: "\e906";
+}
+.icon-basketball-ball:before {
+  content: "\e907";
+}
+.icon-microchip:before {
+  content: "\e908";
+}
+.icon-carrot:before {
+  content: "\e909";
+}
