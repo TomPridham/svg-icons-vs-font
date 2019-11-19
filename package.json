@@ -1,0 +1,27 @@
+{
+  "name": "svg-icons-vs-font",
+  "version": "1.0.0",
+  "description": "svg icon vs icon fonts perf test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomPridham/svg-icons-vs-font.git"
+  },
+  "keywords": ["perf", "svg", "icon", "font", "test"],
+  "author": "tom pridham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomPridham/svg-icons-vs-font/issues"
+  },
+  "homepage": "https://github.com/TomPridham/svg-icons-vs-font#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-static": "^5.0.0"
+  }
+}
