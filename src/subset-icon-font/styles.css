@@ -1,0 +1,180 @@
+/*!
+ * Font Awesome Free 5.11.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+@font-face {
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: 900;
+  font-display: auto;
+  src: url('../webfonts/medium.eot');
+  src: url('../webfonts/medium.eot?#iefix') format('embedded-opentype'),
+    url('../webfonts/medium.woff') format('woff'),
+    url('../webfonts/medium.ttf') format('truetype'),
+    url('../webfonts/medium.svg#fontawesome') format('svg');
+}
+
+i {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mars-double:before {
+  content: '\e923';
+}
+.icon-mars-stroke-h:before {
+  content: '\e924';
+}
+.icon-mars-stroke-v:before {
+  content: '\e925';
+}
+.icon-mars-stroke:before {
+  content: '\e926';
+}
+.icon-mars:before {
+  content: '\e927';
+}
+.icon-mask:before {
+  content: '\e928';
+}
+.icon-medal:before {
+  content: '\e929';
+}
+.icon-medkit:before {
+  content: '\e92a';
+}
+.icon-meh-blank:before {
+  content: '\e92b';
+}
+.icon-meh-rolling-eyes:before {
+  content: '\e92c';
+}
+.icon-meh:before {
+  content: '\e92d';
+}
+.icon-memory:before {
+  content: '\e92e';
+}
+.icon-menorah:before {
+  content: '\e92f';
+}
+.icon-mercury:before {
+  content: '\e930';
+}
+.icon-meteor:before {
+  content: '\e931';
+}
+.icon-chess-king:before {
+  content: '\e90a';
+}
+.icon-chess-knight:before {
+  content: '\e90b';
+}
+.icon-chess-pawn:before {
+  content: '\e90c';
+}
+.icon-chess-queen:before {
+  content: '\e90d';
+}
+.icon-chess-rook:before {
+  content: '\e90e';
+}
+.icon-chess:before {
+  content: '\e90f';
+}
+.icon-chevron-circle-down:before {
+  content: '\e910';
+}
+.icon-ad:before {
+  content: '\e911';
+}
+.icon-address-book:before {
+  content: '\e912';
+}
+.icon-address-card:before {
+  content: '\e913';
+}
+.icon-adjust:before {
+  content: '\e914';
+}
+.icon-air-freshener:before {
+  content: '\e915';
+}
+.icon-align-center:before {
+  content: '\e916';
+}
+.icon-align-justify:before {
+  content: '\e917';
+}
+.icon-align-left:before {
+  content: '\e918';
+}
+.icon-align-right:before {
+  content: '\e919';
+}
+.icon-allergies:before {
+  content: '\e91a';
+}
+.icon-ambulance:before {
+  content: '\e91b';
+}
+.icon-american-sign-language-interpreting:before {
+  content: '\e91c';
+}
+.icon-anchor:before {
+  content: '\e91d';
+}
+.icon-angle-double-down:before {
+  content: '\e91e';
+}
+.icon-angle-double-left:before {
+  content: '\e91f';
+}
+.icon-angle-double-right:before {
+  content: '\e920';
+}
+.icon-angle-double-up:before {
+  content: '\e921';
+}
+.icon-angle-down:before {
+  content: '\e922';
+}
+.icon-hand-lizard:before {
+  content: '\e900';
+}
+.icon-feather:before {
+  content: '\e901';
+}
+.icon-dragon:before {
+  content: '\e902';
+}
+.icon-dumpster:before {
+  content: '\e903';
+}
+.icon-crow:before {
+  content: '\e904';
+}
+.icon-leaf:before {
+  content: '\e905';
+}
+.icon-beer:before {
+  content: '\e906';
+}
+.icon-basketball-ball:before {
+  content: '\e907';
+}
+.icon-microchip:before {
+  content: '\e908';
+}
+.icon-carrot:before {
+  content: '\e909';
+}
