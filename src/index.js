@@ -5,6 +5,6 @@ const app = new Koa();
 app.use(serve('./few-svg-icons/'));
 app.use(serve('./'));
 
-app.listen(3000, () => {
+app.listen(80, () => {
   console.log('listening on port 3000');
 });
